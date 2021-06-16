@@ -1,0 +1,133 @@
+.intro-img {
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+}
+
+.portraitsize {
+    max-height: auto;
+    max-width: 60rem;
+}
+
+.selfportraitsize {
+    max-width: 40rem;
+    max-height: 40rem;
+}
+
+.secondportraitsize{
+    max-width: 20rem;
+    max-height: auto;
+}
+
+.aboutmelandscape{
+    max-height: 50rem;
+    max-width: 55rem;
+}
+
+.aboutmeleft{
+    text-align: left;
+}
+
+.contactme{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.resumelistheading{
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: left;
+}
+
+.tryingagain{
+    max-height: 30rem;
+    max-width: 35rem;
+}
+
+.resumephotos{
+    max-height: 60rem;
+    max-width: 65rem;
+}
+
+.resumelist{
+    text-align: left;
+    font-style: italic;
+}
+
+.resumeheading{
+    font-style: oblique;
+}
+
+.portfoliopics{
+    max-height: 30rem;
+    max-width: 60rem;
+}
+
+.indexquote{
+    text-transform:none;
+}
+
+.maketextleft{
+    text-align: left;
+}
+
+.makecentertext{
+    text-align: center;
+    font-weight: bold;
+}
+
+.changefont{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+}
+
+.myDiv {
+    border: 5px solid #9DDFD3;
+    #;    
+    text-align: center;
+    color: black;
+  }
+
+  .box{
+    width: 1250px;
+    border: 15px solid #9DDFD3;
+    padding: 10px;
+   
+  }
+
+  .bottom{
+    width: 100vw;
+    background-color: #FFC93C;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .margins{
+    margin-block-start: 25%;
+    margin-block-end: 25%;
+    margin-inline-start: 15%;
+    margin-inline-end: 15%;
+  }
+
+  .p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+  .backgroundtab{
+      background-image: url(https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-11-full.jpg);
+  }
+
+  .tableautext{
+      font-family: sans-serif;
+  }
+
+  .tableaucaption{
+      text-align: center;
+  }
+    
